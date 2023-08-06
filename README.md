@@ -6,7 +6,6 @@
 - 🤗 Would love to learn new things from others.  
 
 ### How to teach me?
-https://www.linkedin.com/in/hieu-nguyen-67b578216/
 [[params.social]]
   icon = "google-scholar"
   icon_pack = "ai"
