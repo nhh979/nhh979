@@ -5,6 +5,8 @@
 - 💪 A hard worker, a quick learner, an active listener and a potential colleague.  
 - 🤗 Would love to learn new things from others.  
 
+### How to teach me?
+https://www.linkedin.com/in/hieu-nguyen-67b578216/
 <!--
 **nhh979/nhh979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
