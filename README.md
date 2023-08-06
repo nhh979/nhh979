@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ### About me:
-🤸‍♂️ A dude who is into the field of data analytics. 
-💪 A hard worker, a quick learner, an active listener and a potential colleague.
-🤗 Would love to learn new things from others.
+🤸‍♂️ A dude who is into the field of data analytics.  
+💪 A hard worker, a quick learner, an active listener and a potential colleague.  
+🤗 Would love to learn new things from others.  
 
 <!--
 **nhh979/nhh979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
