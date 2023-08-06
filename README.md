@@ -7,7 +7,11 @@
 
 ### How to teach me?
 https://www.linkedin.com/in/hieu-nguyen-67b578216/
-
+[[params.social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.co.in/citations?user=USERID"
+  
 <!--
 **nhh979/nhh979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
