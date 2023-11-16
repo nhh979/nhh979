@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ### About me:
-- 🤸‍♂️ A dude who is into the field of data analytics.  
-- 💪 A hard worker, a quick learner, an active listener and a potential colleague.  
+- 🤸‍♂️ A person who is into the field of data analytics.  
+- 💪 A hard worker, a quick learner and a potential colleague.  
 - 🤗 Would love to learn new things from others.  
 
 ### How to reach me?
