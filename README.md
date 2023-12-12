@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 ### About me:
-- 🤸‍♂️ A person who is into the field of data analytics.  
-- 💪 A hard worker, a quick learner and a potential colleague.  
-- 🤗 Would love to learn new things from others.  
-
+- 🤸‍♂️ A passionate self-taught data analyst, a hard worker and a quick learner
+- 🤝 Looking for a summer internship
+ 
 ### How to reach me?
  [![](https://camo.githubusercontent.com/f2d0b0da5ad42ba7477de5394860d015a6e199b5bcfd52b3d315dca0be84ca1a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3041363643323f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/hieunguyen2310/)
   
