@@ -5,7 +5,7 @@
 - 🤝 Looking for a summer internship
  
 ### How to reach me?
- [![]([https://camo.githubusercontent.com/38f6378f4d4659c732938fcf81dbe95bcde58a11e02e80d6ec2f6d877fc6de34/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3041363643323f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d7768697465])](https://www.linkedin.com/in/hieunguyen2310/)
+ [![.](https://camo.githubusercontent.com/38f6378f4d4659c732938fcf81dbe95bcde58a11e02e80d6ec2f6d877fc6de34/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3041363643323f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/hieunguyen2310/)
   
 <!--
 **nhh979/nhh979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
