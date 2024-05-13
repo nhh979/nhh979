@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### About me:
-- 🤸‍♂️ A passionate self-taught data analyst, a hard worker and a quick learner
+- 🤸‍♂️ A passionate self-taught data analyst
 - 🤝 Looking for a summer internship
  
 ### How to reach me?
